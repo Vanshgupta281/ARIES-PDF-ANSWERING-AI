@@ -1,6 +1,6 @@
 # ARIES-PDF-ANSWERING-AI
 
-PROJECT OVERVIEW:
+Project Overview:
 The project focuses on creating a simple interface which allows the user to upload a PDF and ask questions relevant to that PDF. The project utilises Natural Language Processing (NLP) and Global Vectors (GloVe) techniques to generate "score" of relevancy from the question and the output among possible outputs with the highest score is given as answer.
 
 Installation Instructions:
